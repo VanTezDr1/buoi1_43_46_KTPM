@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "46 da sua file " << std::endl;
+    std::cout << "conflict da sua file 46 moi" << std::endl;
     return 0;
 }
