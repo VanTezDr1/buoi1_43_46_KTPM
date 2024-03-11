@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "STT 43 va 46 Thuc Hanh" << std::endl;
+    std::cout << "Hello 43 và 46" << std::endl;
     return 0;
 }
